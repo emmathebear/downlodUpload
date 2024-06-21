@@ -1,0 +1,6 @@
+spring:
+  h2:
+    console:
+      enabled: true
+
+uploadDownloadDir: /Users/emmathebear/IdeaProjects/downlodUpload/uploads
